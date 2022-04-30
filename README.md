@@ -33,6 +33,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [ZaraKh  :computer:	](https://github.com/Zarakhansari)
 - [S. Saeid Heidari :computer:](https://github.com/thesaeid)
 - [mohamad hosein](https://github.com/mmdtoorani)
+- [Milad Soltani](https://github.com/milad-sol)
 - [DavodBeheshti:heart::sunglasses::heart:](https://github.com/davodbeheshti)
 - [Alireza Ebrahimkhani :grin:](https://github.com/AlirezaEbrahimkhani)
 - [Mohrazzr:computer::heart:](https://github.com/mohrazzr)
